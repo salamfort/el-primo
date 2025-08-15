@@ -1,0 +1,7 @@
+.about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 80%;
+    gap: 100px;
+}
